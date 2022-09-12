@@ -138,6 +138,6 @@ def main():
             cnt_ls10+=1
     print("Count of Load Date > 10 years: ", cnt_gr10)       
     print("Count of Load Date < 10 years: ", cnt_ls10)     
-if __name__==__main__:
+if __name__=='__main__':
     main()
         
